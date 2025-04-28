@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there :)
+
+Im Richard, currently studying Computer Science in Munich.
 
 <!--
 **Skattis/Skattis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
